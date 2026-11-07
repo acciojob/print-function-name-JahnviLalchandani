@@ -1,5 +1,5 @@
 //your JS code here. If required.
-funtion functionName(){
+function functionName(){
 	return alert(arguments.callee.name)
 }
 
